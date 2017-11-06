@@ -4,11 +4,12 @@
     <title>FaucetPipelineRailsExample</title>
     <%= csrf_meta_tags %>
 
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
-    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag    'public/assets/stylesheets/application.css', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'public/assets/javascripts/application.js', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
+    <%= image_tag("public/assets/static/logo.svg", width: 200, height: 200) %>
     <%= yield %>
   </body>
 </html>

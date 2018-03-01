@@ -7,16 +7,15 @@
     "test": "test"
   },
   "scripts": {
-    "compile": "faucet",
-    "watch": "faucet --no-fingerprint --watch"
+    "compile": "faucet --fingerprint --compact",
+    "watch": "faucet --watch"
   },
   "author": "Lucas Dohmen <lucas@dohmen.io> (https://lucas.dohmen.io)",
   "license": "MIT",
   "dependencies": {
-    "faucet-pipeline": "^0.13.0",
-    "faucet-pipeline-js": "^0.15.4",
-    "faucet-pipeline-sass": "^0.7.1",
-    "faucet-pipeline-static": "^0.4.0",
+    "faucet-pipeline-js": "^1.0.0-rc.2",
+    "faucet-pipeline-sass": "^1.0.0-rc.1",
+    "faucet-pipeline-static": "^1.0.0-rc.1",
     "rails-ujs": "^5.1.4",
     "turbolinks": "^5.0.3"
   }

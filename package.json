@@ -13,10 +13,9 @@
   "author": "Lucas Dohmen <lucas@dohmen.io> (https://lucas.dohmen.io)",
   "license": "MIT",
   "dependencies": {
-    "faucet-pipeline": "^0.13.0",
-    "faucet-pipeline-js": "^0.15.4",
-    "faucet-pipeline-sass": "^0.7.1",
-    "faucet-pipeline-static": "^0.4.0",
+    "faucet-pipeline": "faucet-pipeline/faucet-pipeline#unified-manifest",
+    "faucet-pipeline-sass": "faucet-pipeline/faucet-pipeline-sass#unified-manifest",
+    "faucet-pipeline-static": "faucet-pipeline/faucet-pipeline-static#unified-manifest",
     "rails-ujs": "^5.1.4",
     "turbolinks": "^5.0.3"
   }

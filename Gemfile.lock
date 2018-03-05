@@ -56,7 +56,7 @@ GEM
     concurrent-ruby (1.0.5)
     crass (1.0.2)
     erubi (1.7.0)
-    faucet_pipeline_rails (1.0.0.rc1)
+    faucet_pipeline_rails (1.0.0.rc2)
       rails (>= 4.2.10)
     ffi (1.9.18)
     globalid (0.4.1)
@@ -154,7 +154,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   capybara (~> 2.13)
-  faucet_pipeline_rails (= 1.0.0.rc1)
+  faucet_pipeline_rails (= 1.0.0.rc2)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.7)

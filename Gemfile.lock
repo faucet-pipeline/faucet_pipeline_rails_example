@@ -153,12 +153,12 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  capybara (~> 2.13)
-  faucet_pipeline_rails (= 1.0.0.rc2)
-  jbuilder (~> 2.5)
+  capybara
+  faucet_pipeline_rails
+  jbuilder
   listen (>= 3.0.5, < 3.2)
-  puma (~> 3.7)
-  rails (~> 5.1.4)
+  puma
+  rails
   selenium-webdriver
   spring
   spring-watcher-listen (~> 2.0.0)

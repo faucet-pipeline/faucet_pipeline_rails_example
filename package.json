@@ -13,10 +13,10 @@
   "author": "Lucas Dohmen <lucas@dohmen.io> (https://lucas.dohmen.io)",
   "license": "MIT",
   "dependencies": {
-    "faucet-pipeline-js": "^1.0.0-rc.3",
-    "faucet-pipeline-sass": "^1.0.0-rc.2",
-    "faucet-pipeline-static": "^1.0.0-rc.2",
-    "rails-ujs": "^5.1.4",
-    "turbolinks": "^5.0.3"
+    "faucet-pipeline-js": "^1.0.0",
+    "faucet-pipeline-sass": "^1.0.0",
+    "faucet-pipeline-static": "^1.0.0",
+    "rails-ujs": "^5.2.1",
+    "turbolinks": "^5.2.0"
   }
 }

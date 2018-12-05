@@ -16,7 +16,7 @@
     "faucet-pipeline-js": "^1.1.1",
     "faucet-pipeline-sass": "^1.1.0",
     "faucet-pipeline-static": "^1.0.0",
-    "rails-ujs": "^5.2.1",
+    "rails-ujs": "^5.2.2",
     "turbolinks": "^5.2.0"
   }
 }

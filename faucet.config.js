@@ -1,7 +1,8 @@
 module.exports = {
   js: [{
     source: "./app/assets/javascripts/application.js",
-    target: "./public/assets/javascripts/application.js"
+    target: "./public/assets/javascripts/application.js",
+    compact: "minify"
   }],
   sass: [{
     source: "./app/assets/stylesheets/application.scss",
@@ -9,7 +10,8 @@ module.exports = {
   }],
   static: [{
     source: "./app/assets/images",
-    target: "./public/assets/images"
+    target: "./public/assets/images",
+    compact: "images"
   }],
   manifest: {
     target: "./public/assets/manifest.json",

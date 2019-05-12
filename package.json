@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "faucet-pipeline-images": "^1.1.0",
-    "faucet-pipeline-js": "^2.0.3",
+    "faucet-pipeline-js": "^2.0.4",
     "faucet-pipeline-jsmin": "^2.0.3",
     "faucet-pipeline-sass": "^1.2.0",
     "faucet-pipeline-static": "^1.0.0",

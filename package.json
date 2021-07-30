@@ -16,7 +16,7 @@
     "faucet-pipeline-images": "^1.2.0",
     "faucet-pipeline-js": "^2.1.6",
     "faucet-pipeline-jsmin": "^2.1.6",
-    "faucet-pipeline-sass": "^1.4.0",
+    "faucet-pipeline-sass": "^1.7.0",
     "rails-ujs": "^5.2.4",
     "turbolinks": "^5.2.0"
   }

@@ -7,9 +7,11 @@
     <%= csp_meta_tag %>
 
     <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "application", type: "module" %>
   </head>
 
   <body>
+    <%= image_tag "logo.png", width: "512", height: "512" %>
     <%= yield %>
   </body>
 </html>

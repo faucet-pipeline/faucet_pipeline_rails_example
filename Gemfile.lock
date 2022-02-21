@@ -88,6 +88,8 @@ GEM
       reline (>= 0.2.7)
     digest (3.1.0)
     erubi (1.10.0)
+    faucet_pipeline_rails (1.0.1)
+      rails (>= 4.2.10)
     globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.10.0)
@@ -187,6 +189,7 @@ DEPENDENCIES
   bootsnap
   capybara
   debug
+  faucet_pipeline_rails
   puma (~> 5.0)
   rails (~> 7.0.2, >= 7.0.2.2)
   sqlite3 (~> 1.4)

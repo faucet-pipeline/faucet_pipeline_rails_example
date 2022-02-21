@@ -1,24 +1,10 @@
-# README
+# Using Rails with faucet-pipeline
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Run `npm install` and `bundle`
+* Run `./bin/rails db:migrate`
+* In one tab, run `./bin/rails s`. In another one `npm run watch`.
+* Visit `localhost:3000`.
 
-Things you may want to cover:
+## License
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+faucet-pipeline is licensed under Apache 2.0 License.

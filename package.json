@@ -17,7 +17,7 @@
     "faucet-pipeline-images": "^2.0.0",
     "faucet-pipeline-js": "^2.1.8",
     "faucet-pipeline-sass": "^1.7.1",
-    "faucet-pipeline-static": "^2.0.0"
+    "faucet-pipeline-static": "^2.1.0"
   },
   "dependencies": {
     "@openfonts/titillium-web_latin": "^1.44.2",

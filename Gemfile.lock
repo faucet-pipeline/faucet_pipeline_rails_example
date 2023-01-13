@@ -162,7 +162,7 @@ GEM
     regexp_parser (2.6.0)
     reline (0.3.1)
       io-console (~> 0.5)
-    sqlite3 (1.5.3-x86_64-linux)
+    sqlite3 (1.6.0-x86_64-linux)
     strscan (3.0.4)
     thor (1.2.1)
     timeout (0.3.0)
@@ -190,7 +190,7 @@ DEPENDENCIES
   faucet_pipeline_rails
   puma (~> 6.0)
   rails (~> 7.0.4)
-  sqlite3 (~> 1.5)
+  sqlite3 (~> 1.6)
   tzinfo-data
   web-console
 
